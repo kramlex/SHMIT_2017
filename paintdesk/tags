@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Drawing	board.py	/^			Drawing = False$/;"	kind:variable	line:92
+Drawing	board.py	/^			Drawing = True$/;"	kind:variable	line:87
+Drawing	board.py	/^Drawing = False$/;"	kind:variable	line:11
+Erase	board.py	/^				Erase = False$/;"	kind:variable	line:95
+Erase	board.py	/^				Erase = True$/;"	kind:variable	line:89
+Erase	board.py	/^Erase = False$/;"	kind:variable	line:12
+ErsAll	board.py	/^ErsAll = False$/;"	kind:variable	line:13
+Finished	board.py	/^			Finished = True$/;"	kind:variable	line:83
+Finished	board.py	/^Finished = False$/;"	kind:variable	line:10
+board.py	board.py	1;"	kind:file	line:1
+client_sockets	server.py	/^client_sockets = []$/;"	kind:variable	line:5
+color	board.py	/^			color = [0,0,0]$/;"	kind:variable	line:55
+color	board.py	/^			color = [224, 224, 224]$/;"	kind:variable	line:58
+count_listener	server.py	/^count_listener = raw_input()$/;"	kind:variable	line:28
+host	server.py	/^host = '192.168.0.102'$/;"	kind:variable	line:29
+k	board.py	/^			k = 0$/;"	kind:variable	line:93
+k	board.py	/^		k = 1$/;"	kind:variable	line:77
+k	board.py	/^k = 0$/;"	kind:variable	line:14
+mess	board.py	/^		mess = []$/;"	kind:variable	line:65
+port	server.py	/^port = raw_input()$/;"	kind:variable	line:26
+pos	board.py	/^		pos = pygame.mouse.get_pos()$/;"	kind:variable	line:51
+pos1	board.py	/^		pos1 = pos$/;"	kind:variable	line:78
+pos2	board.py	/^		pos2 = []$/;"	kind:variable	line:66
+rad	board.py	/^			rad = 15$/;"	kind:variable	line:59
+rad	board.py	/^			rad = 2$/;"	kind:variable	line:56
+s	board.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	kind:variable	line:5
+s	server.py	/^s = socket.socket(socket.AF_INET , socket.SOCK_STREAM)$/;"	kind:variable	line:33
+screen	board.py	/^screen = pygame.display.set_mode([1280, 720])$/;"	kind:variable	line:8
+server.py	server.py	1;"	kind:file	line:1
+st	board.py	/^		st = ''.join(mess)$/;"	kind:variable	line:74
+stpos	board.py	/^		stpos = ''.join(pos2)$/;"	kind:variable	line:69
+wait	board.py	/^def wait():$/;"	kind:function	line:16
+wait_for_messages	server.py	/^def wait_for_messages(user_socket):$/;"	kind:function	line:8
